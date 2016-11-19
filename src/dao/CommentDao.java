@@ -5,7 +5,7 @@
 package dao;
 
 import entity.Comment;
-import java.util.List;
+
 
 /**
  *
