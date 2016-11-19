@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.1.9" icons="true" automaticImage="PNG">  
+  <object id="1" language="java" name="entity.Person" project="Social" file="/Social/src/entity/Person.java" 
+    binary="false" label="person" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="96" y="0"/>  
+  </object>
+</sequence-diagram>

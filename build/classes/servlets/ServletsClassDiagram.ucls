@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.9" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="servlets.DeclineFriendRequestServlet" project="Social" 
+    file="/Social/src/servlets/DeclineFriendRequestServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="335" x="287" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="servlets.LoginServlet" project="Social" 
+    file="/Social/src/servlets/LoginServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="335" x="662" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="servlets.WallServlet" project="Social" 
+    file="/Social/src/servlets/WallServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="335" x="1037" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="servlets.FriendServlet" project="Social" 
+    file="/Social/src/servlets/FriendServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="335" x="1412" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="servlets.ActivateServlet" project="Social" 
+    file="/Social/src/servlets/ActivateServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="335" x="1787" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="servlets.CreatePostServlet" project="Social" 
+    file="/Social/src/servlets/CreatePostServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="335" x="2162" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="servlets.UnansweredFriendRequestServlet" project="Social" 
+    file="/Social/src/servlets/UnansweredFriendRequestServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="335" x="2537" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="servlets.EditProfileServlet" project="Social" 
+    file="/Social/src/servlets/EditProfileServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="335" x="2912" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="servlets.CreateFriendRequestServlet" project="Social" 
+    file="/Social/src/servlets/CreateFriendRequestServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="335" x="3287" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="servlets.LogoutServlet" project="Social" 
+    file="/Social/src/servlets/LogoutServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="335" x="3662" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="servlets.CommentServlet" project="Social" 
+    file="/Social/src/servlets/CommentServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="335" x="4037" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="servlets.UpdatePasswordServlet" project="Social" 
+    file="/Social/src/servlets/UpdatePasswordServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="335" x="4412" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="servlets.RegisterServlet" project="Social" 
+    file="/Social/src/servlets/RegisterServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="335" x="4787" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="servlets.NotificationServlet" project="Social" 
+    file="/Social/src/servlets/NotificationServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="335" x="5162" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="servlets.RemoveFriendServlet" project="Social" 
+    file="/Social/src/servlets/RemoveFriendServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="335" x="5537" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="servlets.AcceptFriendRequestServlet" project="Social" 
+    file="/Social/src/servlets/AcceptFriendRequestServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="335" x="5912" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="servlets.CreateCommentServlet" project="Social" 
+    file="/Social/src/servlets/CreateCommentServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="335" x="6287" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="servlets.AllPeopleServlet" project="Social" 
+    file="/Social/src/servlets/AllPeopleServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="335" x="6662" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="servlets.UpdatePersonalInfoServlet" project="Social" 
+    file="/Social/src/servlets/UpdatePersonalInfoServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="335" x="7037" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="servlets.ProfileServlet" project="Social" 
+    file="/Social/src/servlets/ProfileServlet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="335" x="7412" y="91"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
