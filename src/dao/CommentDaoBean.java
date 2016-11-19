@@ -22,7 +22,7 @@ import javax.ejb.Local;
  *
  * @author milandobrota
  */
-@Stateless
+
 @Local(CommentDao.class)
 public class CommentDaoBean extends GenericDaoBean<Comment, Integer> implements CommentDao {
     
