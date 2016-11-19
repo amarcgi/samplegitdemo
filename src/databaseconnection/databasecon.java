@@ -6,7 +6,7 @@ public class databasecon
 	static Connection co;
 	public static Connection getconnection()
 	{
- 		
+ 		Line added by AMar in new featur branch
  			
 		try
 		{
