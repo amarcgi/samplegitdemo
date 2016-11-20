@@ -1,7 +1,7 @@
 package databaseconnection;
 
 import java.lang.Math;
-
+Added this line in new featurew at second commit
 /*  Program to build a Huffman tree and Huffman code */
 
 class Huffman {
