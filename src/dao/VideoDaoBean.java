@@ -11,7 +11,7 @@ import javax.ejb.Stateless;
 import javax.persistence.NamedQuery;
 import javax.persistence.Query;
 
-
+Line added in new2 branch
 /**
  *
  * @author milandobrota

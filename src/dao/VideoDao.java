@@ -12,6 +12,6 @@ import entity.Video;
  */
 public interface VideoDao extends GenericDao<Video, Integer> {
 
-    public Video createVideo(String link, Integer postId);
-  
+    Video createVideo(String link, Integer postId);
+    
 }

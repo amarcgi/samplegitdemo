@@ -13,6 +13,10 @@ import javax.ejb.Local;
  * @author milandobrota
  */
 
+
+
+@Local Added after merger conflict
+
 public interface GenericDao<T, ID extends Serializable> {
   
   public Class<T> getEntityType();
