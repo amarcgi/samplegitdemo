@@ -12,7 +12,7 @@ import javax.ejb.Local;
  *
  * @author milandobrota
  */
-@Local
+@Local@Local
 public interface GenericDao<T, ID extends Serializable> {
   
   public Class<T> getEntityType();
